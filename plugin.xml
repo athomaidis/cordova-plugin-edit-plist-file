@@ -33,15 +33,6 @@
         <!-- iOS9 whitelisting -->
         <config-file target="*-Info.plist" parent="LSApplicationQueriesSchemes">
             <array>
-                <string>twitter</string>
-                <string>fb</string>
-                <string>whatsapp</string>
-                <string>itms-apps</string>
-                <string>sj</string>
-                <string>fb-messenger</string>
-                <string>instagram</string>
-                <string>com.afconsult.sunflett-carsharing</string>
-                <string>google-maps</string>
             </array>
         </config-file>
         
